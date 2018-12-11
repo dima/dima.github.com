@@ -1,1 +1,0 @@
-(function(){$(function(){return $("#back-to-top-button").click(function(){return $("html,body").scrollTo("0px","slow")})})}).call(this);
